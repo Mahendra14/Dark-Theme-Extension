@@ -2,10 +2,39 @@
   "name": "dark-rasengan",
   "displayName": "Dark Rasengan",
   "description": "Dark theme, which resembles a rasengan",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.85.0"
+  "version": "1.0.0",
+  "publisher": "MahendraInnovateDevForTom",
+  "author": {
+    "name": "Mahendra Kumar Raichur"
   },
+  "engines":{
+    "vscode":"^1.47.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mahendra14/Dark-Theme-Extension"
+  },
+  "bugs": {
+    "url": "https://github.com/Mahendra14/Dark-Theme-Extension/issues"
+  },
+  "galleryBanner": {
+    "color": "#09131b",
+    "theme": "dark"
+  },
+  "icon": "images/icons/naruto.png",
+  "categories":[
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "naruto",
+    "naruto dark theme",
+    "Innovate",
+    "Dev Theme",
+    "coder theme",
+    "Theme"
+  ],
   "categories": [
     "Themes"
   ],
