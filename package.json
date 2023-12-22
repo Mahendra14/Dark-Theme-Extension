@@ -2,13 +2,13 @@
   "name": "dark-rasengan",
   "displayName": "Dark Rasengan",
   "description": "Dark theme, which resembles a rasengan",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "MahendraInnovateDevForTom",
   "author": {
     "name": "Mahendra Kumar Raichur"
   },
-  "engines":{
-    "vscode":"^1.47.3"
+  "engines": {
+    "vscode": "^1.47.3"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
     "theme": "dark"
   },
   "icon": "images/icons/naruto.png",
-  "categories":[
+  "categories": [
     "Themes"
   ],
   "keywords": [
@@ -34,9 +34,6 @@
     "Dev Theme",
     "coder theme",
     "Theme"
-  ],
-  "categories": [
-    "Themes"
   ],
   "contributes": {
     "themes": [
