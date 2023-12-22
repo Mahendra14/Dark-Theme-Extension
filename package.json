@@ -1,0 +1,21 @@
+{
+  "name": "dark-rasengan",
+  "displayName": "Dark Rasengan",
+  "description": "Dark theme, which resembles a rasengan",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Theme - Naruto",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Theme - Naruto-color-theme.json"
+      }
+    ]
+  }
+}
