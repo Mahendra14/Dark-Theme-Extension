@@ -9,3 +9,8 @@ https://github.com/Mahendra14/Dark-Theme-Extension
 Hope you enjoy Naruto Based Rasengan Dark Theme!!
 
 **Enjoy!**
+
+
+Successfuly Published on VS Code!!
+
+![image](https://github.com/Mahendra14/Dark-Theme-Extension/assets/51109700/8bd98224-c758-4166-980b-1d8bf8c50c02)
